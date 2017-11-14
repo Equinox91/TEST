@@ -9,7 +9,7 @@ public class Ville {
 	public Ville(){
 		compteur = compteur + 1;
 	}
-	
+	//tes
 	public Ville(String unNom, int unHabitant, float uneSuperficie){
 		this.nom = unNom;
 		this.nbHabitantsV = unHabitant;
