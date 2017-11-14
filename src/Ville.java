@@ -5,7 +5,7 @@ public class Ville {
 	private int nbHabitantsV;
 	private float superficie;
 	private static int compteur = 0;
-	
+	//test
 	public Ville(){
 		compteur = compteur + 1;
 	}
