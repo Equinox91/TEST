@@ -1,6 +1,6 @@
 
 public class Capitale extends Ville {
-	
+	//yolo
 
 	
 	public Capitale() {
